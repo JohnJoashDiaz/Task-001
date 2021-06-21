@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+    <p> TEST </p>
     <h1> First commit and push </h1>
     <p> My name is Thomas Andrew Zaragoza </p>
     <p> try using fetch and merge </p>
